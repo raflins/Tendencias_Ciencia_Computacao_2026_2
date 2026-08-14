@@ -1,221 +1,88 @@
-# 🚀 Tendências em Ciência da Computação
 
-Repositório acadêmico desenvolvido para a disciplina **Tendências em Ciência da Computação**, referente ao semestre **2026.2**.
+<div align="center">
 
-Este espaço será utilizado para registrar e organizar a **jornada de aprendizagem** ao longo da disciplina, reunindo atividades, desafios, pesquisas, experimentos, projetos e demais produções desenvolvidas durante o semestre.
+# ⚡ TENDÊNCIAS EM CIÊNCIA DA COMPUTAÇÃO
+### *Repositório Acadêmico & Trilha de Aprendizagem — Semestre 2026.2*
 
----
+[![Status da Trilha](https://img.shields.io/badge/Status-Em_Andamento-blue?style=for-the-badge&logo=rocket)](https://github.com/raflins)
+[![Disciplina](https://img.shields.io/badge/Disciplina-Tendências_CC-purple?style=for-the-badge&logo=codeforces)](https://github.com/raflins)
+[![Instituição](https://img.shields.io/badge/Semestre-2026.2-success?style=for-the-badge&logo=google-classroom)](https://github.com/raflins)
 
-## 🎓 Sobre a disciplina
-
-A disciplina de **Tendências em Ciência da Computação** aborda tecnologias e práticas relacionadas à evolução da Inteligência Artificial e suas aplicações no desenvolvimento de soluções computacionais.
-
-Ao longo do semestre, serão explorados conceitos de **Inteligência Artificial, modelos generativos, Engenharia de Prompt, programação assistida por IA, Low Code/No Code, agentes de IA, segurança, privacidade e ética**, além do desenvolvimento de uma solução inteligente como projeto final.
-
-Os recursos e tecnologias utilizados poderão ser atualizados conforme a evolução das ferramentas e tecnologias de Inteligência Artificial.
+</div>
 
 ---
 
-## 🧭 Jornada da Disciplina
+## 🎯 Visão Geral do Portfólio
 
-A jornada está organizada em quatro unidades principais:
+Bem-vindo(a) ao meu espaço oficial de desenvolvimento para a disciplina **Tendências em Ciência da Computação**, ministrada pela professora **Kadidja Valéria**. 
 
-### 🧠 Unidade I — Fundamentos
-
-Nesta etapa serão trabalhados os fundamentos de Inteligência Artificial e modelos generativos.
-
-**Principais temas:**
-
-* Fundamentos de Inteligência Artificial;
-* Modelos de linguagem (LLMs);
-* Modelos generativos;
-* Engenharia de Prompt;
-* Criação e refinamento de prompts;
-* Contexto, estrutura, papéis e restrições em prompts.
-
-**Práticas previstas:**
-
-* Demonstrações com ferramentas de IA;
-* Criação de prompts;
-* Comparação de resultados;
-* Exercícios práticos de Engenharia de Prompt.
+Este repositório funciona como um **diário de bordo interativo e dinâmico**, documentando minha evolução técnica, pesquisas, resoluções de desafios e a construção do projeto prático ao longo da jornada acadêmica deste semestre.
 
 ---
 
-### 💻 Unidade II — Programação Assistida
+## 🗺️ Mapa da Trilha de Aprendizagem
 
-Nesta unidade será explorado o uso da Inteligência Artificial como ferramenta de apoio ao desenvolvimento de software.
+O conteúdo programático está estruturado em quatro grandes pilares tecnológicos:
 
-**Principais temas:**
-
-* Programação assistida por IA;
-* Sugestão e geração de código;
-* Refatoração;
-* Automação;
-* Colaboração entre humano e IA;
-* Boas práticas no uso de IA durante o desenvolvimento.
-
-**Ferramentas previstas:**
-
-* GitHub Copilot;
-* Replit;
-* Outras ferramentas de programação assistida por IA.
+| Unidade | Foco Principal | Ferramentas & Tecnologias |
+| :--- | :--- | :--- |
+| **I. Fundamentos** | IA Generativa & Engenharia de Prompt | LLMs, Técnicas de Prompt, Contexto e Papéis |
+| **II. Programação Assistida** | Desenvolvimento potencializado por IA | GitHub Copilot, Replit, Refatoração de Código |
+| **III. Low Code / No Code** | Criação ágil de soluções visuais | Bubble, Make, Aplicações Híbridas |
+| **IV. Agentes e Ética** | Automação inteligente e responsabilidade | Chatbots, Agentes de IA, Privacidade e Viés |
 
 ---
 
-### 🧩 Unidade III — Low Code / No Code
-
-Nesta etapa serão estudadas abordagens que permitem desenvolver soluções utilizando pouco ou nenhum código tradicional.
-
-**Principais temas:**
-
-* Low Code;
-* No Code;
-* Vibecode;
-* Integração de ferramentas;
-* Desenvolvimento de aplicações híbridas;
-* Potencialidades e limitações das abordagens visuais.
-
-**Ferramentas previstas:**
-
-* Bubble;
-* Make;
-* Outras plataformas relacionadas.
-
----
-
-### 🤖 Unidade IV — Agentes e Ética
-
-A última unidade aborda a criação de agentes de Inteligência Artificial e os aspectos éticos relacionados ao seu desenvolvimento e utilização.
-
-**Principais temas:**
-
-* Agentes de IA;
-* Chatbots;
-* Privacidade;
-* Segurança;
-* Dados sensíveis;
-* Viés algorítmico;
-* Responsabilidade social;
-* Impactos éticos da Inteligência Artificial.
-
----
-
-## 🏆 Projeto Final
-
-Como parte da jornada da disciplina, será desenvolvido um **projeto prático para criação de uma solução inteligente**.
-
-O projeto envolverá:
-
-* Desenvolvimento da solução;
-* Utilização de conceitos estudados durante a disciplina;
-* Aplicação de Inteligência Artificial;
-* Trabalho em grupo;
-* Apresentação do projeto;
-* Comunicação e validação dos resultados.
-
----
-
-## 📂 Organização do Repositório
-
-O repositório será organizado para acompanhar a evolução das atividades durante o semestre.
+## 📂 Estrutura de Diretórios
 
 ```text
 Tendencias_Ciencia_Computacao_2026_2_Kadidja/
 │
 ├── 📁 Jornada/
-│   └── Missão 01/
+│   └── 🚀 Missão-01/
 │
 ├── 📁 Unidade-I-Fundamentos/
-│   ├── Engenharia-de-Prompt/
-│   ├── LLMs/
-│   └── Atividades/
-│
 ├── 📁 Unidade-II-Programacao-Assistida/
-│   ├── Programacao-com-IA/
-│   ├── Automacao/
-│   └── Atividades/
-│
 ├── 📁 Unidade-III-Low-Code-No-Code/
-│   ├── Low-Code/
-│   ├── No-Code/
-│   └── Atividades/
-│
 ├── 📁 Unidade-IV-Agentes-e-Etica/
-│   ├── Agentes/
-│   ├── Etica/
-│   └── Atividades/
-│
 ├── 📁 Projeto-Final/
 │
 ├── 📄 README.md
 └── 📄 LICENSE
-```
+⚠️ Nota: Esta arquitetura de pastas é dinâmica e será expandida conforme novos módulos e entregas forem liberados.
 
-> A estrutura poderá ser modificada ao longo do semestre conforme novas atividades e projetos forem desenvolvidos.
+📊 Acompanhamento de Entregas
+✅ Missão 01 — Atividade de Decolagem (Concluído)
 
----
+🔄 Unidade I — Fundamentos de IA e Prompts (Em andamento)
 
-## 📝 Atividades
+⏳ Unidade II — Programação Assistida por IA (Pendente)
 
-| Etapa         | Atividade                              | Status          |
-| ------------- | -------------------------------------- | --------------- |
-| Jornada       | Missão 01 — Atividade de decolagem     | ✅ Concluído |
-| Unidade I     | Fundamentos de IA                      | 🔄 Em andamento |
-| Unidade I     | Engenharia de Prompt                   | ⏳ Pendente      |
-| Unidade II    | Programação Assistida por IA           | ⏳ Pendente      |
-| Unidade III   | Low Code / No Code                     | ⏳ Pendente      |
-| Unidade IV    | Agentes e Ética                        | ⏳ Pendente      |
-| Projeto Final | Desenvolvimento de solução inteligente | ⏳ Pendente      |
+⏳ Unidade III — Abordagens Low Code / No Code (Pendente)
 
-A primeira atividade da disciplina corresponde à **Missão 01**, apresentada durante a aula inaugural.
+⏳ Unidade IV — Agentes Autônomos e Ética em IA (Pendente)
 
----
+⏳ Projeto Final — Desenvolvimento de Solução Inteligente (Pendente)
 
-## 🛠️ Tecnologias e Ferramentas
+🛠️ Stack Tecnológica & Ecossistema
+As ferramentas abaixo compõem o ecossistema prático explorado na disciplina:
 
-Durante a disciplina poderão ser utilizadas diferentes ferramentas e tecnologias relacionadas à Inteligência Artificial e ao desenvolvimento de software.
+🤖 Modelos de Linguagem & IA: ChatGPT / LLMs Generativas
 
-Entre elas:
+💻 Assistência de Código: GitHub Copilot, Replit
 
-* 🤖 Inteligência Artificial Generativa;
-* 💬 ChatGPT;
-* 💻 GitHub Copilot;
-* 🧑‍💻 Replit;
-* 🧩 Bubble;
-* ⚙️ Make;
-* 🐙 GitHub;
-* 🌐 Outras ferramentas de IA e desenvolvimento.
+🧩 Desenvolvimento Visual: Bubble, Make
 
-A seleção de ferramentas poderá ser atualizada de acordo com a evolução das tecnologias de Inteligência Artificial.
+🌐 Versionamento: Git & GitHub
 
----
+👨‍💻 Autor & Conexões
+Desenvolvido com dedicação por Rafael Pereira.
 
-## 👨‍💻 Autor
+🎓 Curso: Ciência da Computação
 
-**Rafael Pereira**
+🐙 GitHub: [@raflins](https://github.com/raflins)
 
-🎓 Estudante de Ciência da Computação
+📄 Licença
+Distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-🔗 GitHub: [@raflins](https://github.com/raflins)
-
----
-
-## 📚 Disciplina
-
-**Tendências em Ciência da Computação**
-
-**Semestre:** 2026.2
-**Professora:** Kadidja Valéria
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a **MIT License**.
-
-Consulte o arquivo [LICENSE](LICENSE) para mais informações.
-
----
-
-> 🚀 **Este repositório representa a jornada de aprendizado e experimentação ao longo da disciplina de Tendências em Ciência da Computação.**
+🚀 Este repositório representa a jornada de aprendizado e experimentação ao longo da disciplina de Tendências em Ciência da Computação.
