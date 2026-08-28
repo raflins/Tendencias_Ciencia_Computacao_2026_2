@@ -50,7 +50,7 @@ Tendencias_Ciencia_Computacao_2026_2_Kadidja/
 ├── 📄 README.md
 └── 📄 LICENSE
 ⚠️ Nota: Esta arquitetura de pastas é dinâmica e será expandida conforme novos módulos e entregas forem liberados.
-
+```
 📊 Acompanhamento de Entregas
 ✅ Missão 01 — Atividade de Decolagem (Concluído)
 
